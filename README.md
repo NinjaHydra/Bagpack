@@ -21,10 +21,7 @@
  $ sh bagpack.sh
 ```
 ```
- Type your name just for assurance that you are not a bot. 
-```
-```
- Then type y and just leave your Android for a couple of minutes and have a coffee. 
+ Then type y and just leave your Android for a couple of minutes and have a coffee.
 ```
 
 ## Join Us :
